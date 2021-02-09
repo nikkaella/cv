@@ -1,0 +1,23 @@
+body {
+    background-color: #D3DBC8;
+    padding-left: 2%;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+hr {
+    color: #FFF8E9;
+    border-style: dotted none;
+    border-width: 10px 0 0;
+    width: 10%;
+}
+
+h1 {
+    color: #9D9B73;
+    font-size: 48px;
+}
+
+h3 {
+    color: #9D9B73;
+    font-size: 24px;
+}
